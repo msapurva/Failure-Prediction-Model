@@ -12,7 +12,7 @@ Machine Learning techniques to be used to predict part failures before they can 
 
 
 ## Approach
-![Approach](/Users/apsharma/Appy_GitHub/Failure-Prediction-Model)
+![Approach](https://github.com/msapurva/Failure-Prediction-Model/blob/master/Screen%20Shot%202019-03-14%20at%202.33.16%20PM.png)
 
 ## Requirements:
 - Python 3.7.0.
